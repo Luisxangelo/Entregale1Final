@@ -11,7 +11,8 @@
 }
 
 h2{
-    position: grid;
+    text-align: center;
+    position: flex;
     width: 304.84px;
     height: 19px;
     left: 488px;
@@ -25,6 +26,7 @@ h2{
     text-align: center;
     padding-right: 80%;
     color: #FFFFFF;
+    padding-left: 105px;
 
     text-shadow: 0px 4px 6px rgba(0, 0, 0, 0.33);
 }
